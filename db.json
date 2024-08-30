@@ -261,47 +261,10 @@
             "video": false,
             "vote_average": 7.189,
             "vote_count": 3251
-          },
-          {
-            "adult": false,
-            "backdrop_path": "/rrwt0u1rW685u9bJ9ougg5HJEHC.jpg",
-            "genre_ids": [
-              28,
-              35,
-              80
-            ],
-            "id": "280180",
-            "original_language": "en",
-            "original_title": "Beverly Hills Cop: Axel F",
-            "overview": "Forty years after his unforgettable first case in Beverly Hills, Detroit cop Axel Foley returns to do what he does best: solve crimes and cause chaos.",
-            "popularity": 981.812,
-            "poster_path": "/zszRKfzjM5jltiq8rk6rasKVpUv.jpg",
-            "release_date": "2024-06-20",
-            "title": "Beverly Hills Cop: Axel F",
-            "video": false,
-            "vote_average": 6.9,
-            "vote_count": 691
-          },
-          {
-            "adult": false,
-            "backdrop_path": "/dsGwCEO8tda4FlgHKvL95f0oQbH.jpg",
-            "genre_ids": [
-              16,
-              878,
-              28
-            ],
-            "id": "1209290",
-            "original_language": "en",
-            "original_title": "Justice League: Crisis on Infinite Earths Part Three",
-            "overview": "Now fully revealed as the ultimate threat to existence, the Anti-Monitor wages an unrelenting attack on the surviving Earths that struggle for survival in a pocket universe. One by one, these worlds and all their inhabitants are vaporized! On the planets that remain, even time itself is shattered, and heroes from the past join the Justice League and their rag-tag allies against the epitome of evil. But as they make their last stand, will the sacrifice of the superheroes be enough to save us all?",
-            "popularity": 1204.764,
-            "poster_path": "/a3q8NkM8uTh9E23VsbUOdDSbBeN.jpg",
-            "release_date": "2024-07-16",
-            "title": "Justice League: Crisis on Infinite Earths Part Three",
-            "video": false,
-            "vote_average": 7.577,
-            "vote_count": 78
           }
+         
+          
+          
          
       
       
